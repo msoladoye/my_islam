@@ -1,0 +1,11 @@
+timings: {
+    Fajr: "05:36 (WAT)",
+    Sunrise: "06:33 (WAT)",
+    Dhuhr: "12:34 (WAT)",
+    Asr: "15:51 (WAT)",
+    Sunset: "18:35 (WAT)",
+    Maghrib: "18:35 (WAT)",
+    Isha: "19:32 (WAT)",
+    Imsak: "05:26 (WAT)",
+    Midnight: "00:34 (WAT)"
+},
